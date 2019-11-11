@@ -13,7 +13,7 @@ My solutions of the assignments and notes about Reinforcement Learning course of
 1. [TD with State Aggregation](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/assignment_week1_On-policyPredictionwithApproximation.ipynb)
 2. [Semi-gradient TD with a Neural Network](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/assignment_week2_Semi-gradientTDwithNeuralNetwork.ipynb)
 3. [Function Approximation and Control](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/assignment_week3_FunctionApproximationandControl.ipynb)
-
+4. [Average Reward Softmax Actor-Critic](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/assignment_week4_AverageRewardSoftmaxActor-Critic.ipynb)
 # Reference
 Book:</br>
 [Reinforcement Learning: An Introduction (second edition)](http://www.incompleteideas.net/book/RLbook2018.pdf)
