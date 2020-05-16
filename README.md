@@ -2,7 +2,7 @@
 My solutions of the assignments and notes about Reinforcement Learning course of University of Alberta.
 
 # Index
-## I. Fundamentals of Reinforcement Learning
+### I. Fundamentals of Reinforcement Learning
 1. [Bandits and Exploration/Exploitation](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Fundamentals%20of%20Reinforcement%20Learning/assignment_week1_Bandits%26Exploration%3AExploitation.ipynb)
 2. [Optimal Policies with Dynamic Programming](https://nbviewer.jupyter.org/github/Sodagreenmario/ReinforcementLearningCourse/blob/master/Fundamentals%20of%20Reinforcement%20Learning/assignment_week4_OptimalPolicywithDP.ipynb)
 ### II. Sample-based Learning Methods
